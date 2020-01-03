@@ -1,0 +1,5 @@
+Exam (CIS SM) blueprint: https://www.servicenow.com/content/dam/servicenow/other-documents/training/cis-sm-blueprint.pdf
+
+Docs: https://docs.servicenow.com/bundle/kingston-it-operations-management/page/product/it-operations-management/reference/r_ITOMApplications.html
+
+Presentation materials: https://www.servicenow.com/products/it-operations-management.html
